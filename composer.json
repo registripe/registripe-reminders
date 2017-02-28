@@ -1,0 +1,4 @@
+
+	"require": {
+		"silverstripe/queuedjobs": "Allows sending out event reminder emails"
+	}
